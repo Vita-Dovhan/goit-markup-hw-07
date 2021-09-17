@@ -1,0 +1,13 @@
+@keyframes logoanimation {
+ 0% {
+transform: rotateX(0deg);
+}
+
+100% {
+transform: rotateX(180deg);
+}
+}
+
+.logo-animation{
+animation: logoanimation 2500ms infinite alternate ease-in-out 1000ms;
+}

@@ -1,0 +1,2 @@
+:root{--primary-text-color: #212121;--secondary-text-colot: #757575;--accent-color: #2196f3;--back-ground-color: #2f303a;--address-text-color: rgba(255, 255, 255, 0.6);--white-color: #ffffff;--main-function: cubic-bezier(0.4, 0, 0.2, 1);--time: 250ms}body{font-family:'Roboto', sans-serif;font-size:14px;line-height:1.71;letter-spacing:0.03em;color:var(--primary-text-color)}
+/*# sourceMappingURL=variables.min.css.map */
